@@ -1,0 +1,10 @@
+C:\Users\rcrop\Documents\TRSInterviewExercieses\IceCreamFlavorCounter\bin\Debug\IceCreamFlavorCounter.exe.config
+C:\Users\rcrop\Documents\TRSInterviewExercieses\IceCreamFlavorCounter\bin\Debug\IceCreamFlavorCounter.exe
+C:\Users\rcrop\Documents\TRSInterviewExercieses\IceCreamFlavorCounter\bin\Debug\IceCreamFlavorCounter.pdb
+C:\Users\rcrop\Documents\TRSInterviewExercieses\IceCreamFlavorCounter\obj\Debug\IceCreamFlavorCounter.csproj.AssemblyReference.cache
+C:\Users\rcrop\Documents\TRSInterviewExercieses\IceCreamFlavorCounter\obj\Debug\IceCreamFlavorCounter.csproj.CoreCompileInputs.cache
+C:\Users\rcrop\Documents\TRSInterviewExercieses\IceCreamFlavorCounter\obj\Debug\IceCreamFlavorCounter.exe
+C:\Users\rcrop\Documents\TRSInterviewExercieses\IceCreamFlavorCounter\obj\Debug\IceCreamFlavorCounter.pdb
+C:\Users\rcrop\Documents\TRSInterviewExercieses\IceCreamFlavorCounter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rcrop\Documents\TRSInterviewExercieses\IceCreamFlavorCounter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rcrop\Documents\TRSInterviewExercieses\IceCreamFlavorCounter\obj\Debug\IceCreamFlavorCounter.csproj.CopyComplete
